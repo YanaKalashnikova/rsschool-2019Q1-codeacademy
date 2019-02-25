@@ -1,1 +1,2 @@
-# rsschool-2019Q1-codeacademy
+# Yana Kalashnikova
+HTML CSS Basics: https://www.codecademy.com/users/YanaKalashnikova/achievements
